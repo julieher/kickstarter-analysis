@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-![This is an image] (Resources/Theater_Outcomes_by_Launch Date.png)
+![This is an image] (https://github.com/julieher/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_by_Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
