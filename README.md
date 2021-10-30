@@ -11,7 +11,6 @@ The purpose of this project is to organize, sort, analyze raw data to determine 
 
 ### Analysis of Outcomes Based on Launch Date
 
-
 ![Theater_Outcomes_by_Launch_Date](Resources/Theater_Outcomes_by_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
